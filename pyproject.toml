@@ -120,7 +120,7 @@ package-mode = false
   sentry-sdk = "^2.12"
   stripe = "^3.0.0"
   text-unidecode = "^1.2"
-  urllib3 = "^2.4.0"
+  urllib3 = "^2.5.0"
   uvicorn = {extras = ["standard"], version = "^0.32.0"}
   setuptools = "^76.0.0"
   psycopg = {version = "^3.2.9", extras = ["binary"]}
